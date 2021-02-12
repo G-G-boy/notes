@@ -1,0 +1,21 @@
+{
+  "name": "design-patterns",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Gavin.guo <Gavin.guo@dfox.cn>",
+  "homepage": "https://github.com/G-G-boy/notes#readme",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-G-boy/notes.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/G-G-boy/notes/issues"
+  }
+}
