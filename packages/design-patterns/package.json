@@ -13,7 +13,10 @@
     "url": "git+https://github.com/G-G-boy/notes.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1"
   },
   "bugs": {
     "url": "https://github.com/G-G-boy/notes/issues"
