@@ -13,7 +13,11 @@
     "url": "git+https://github.com/G-G-boy/notes.git"
   },
   "scripts": {
-    "test": "ts-node ./src/index.ts"
+    "test": "ts-node ./src/index.ts",
+    "Singleton": "ts-node src/Singleton.ts",
+    "Builder": "ts-node src/Builder.ts",
+    "Publish": "ts-node src/Publish-Subscribe.ts",
+    "Factory": "ts-node src/Factory.ts"
   },
   "devDependencies": {
     "ts-node": "^9.1.1"
